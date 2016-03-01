@@ -205,3 +205,6 @@
 [submodule "bundle/indentline"]
 	path = bundle/indentline
 	url = https://github.com/Yggdroot/indentLine.git
+[submodule "bundle/multiple-cursors"]
+	path = bundle/multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
