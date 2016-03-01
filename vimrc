@@ -450,3 +450,6 @@ inoremap <Esc>D <left>
 if has("balloon_eval")
   set noballooneval
 endif
+set backupdir=~/.vim/backup//
+set directory=~/.vim/backup//
+set viewdir=~/.vim/backup//
